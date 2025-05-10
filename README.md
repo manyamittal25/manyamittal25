@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://lmanyamittalportfolioo.netlify.app//](https://lmanyamittalportfolioo.netlify.app//)
+- 👨‍💻 All of my projects are available at [https://manyamittalportfolioo.netlify.app//](https://manyamittalportfolioo.netlify.app//)
 
 - 💬 Ask me about **MERN**
 
